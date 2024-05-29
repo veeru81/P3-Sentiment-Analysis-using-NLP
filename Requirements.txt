@@ -1,0 +1,4 @@
+# Download the libraries if you don't have
+# !pip install nltk
+# !pip install textblob
+# !pip install wordcloud
