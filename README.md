@@ -6,7 +6,11 @@ Sentiment analysis (or opinion mining) is a natural language processing (NLP) te
 If polarity precision is important to your business, you might consider expanding your polarity categories to include different levels of positive and negative:
 
 Very positive
+
 Positive
+
 Neutral
+
 Negative
+
 Very negative
